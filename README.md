@@ -29,6 +29,7 @@ NTP (port 123)
 All packages have been updated to current versions
 Ubuntu is version 16
 for the catalog application python version 2.7 is used in order to match the Udacity course
+unattended-upgrade is setup.
 
 
 # catalog application
